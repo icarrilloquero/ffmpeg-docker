@@ -21,5 +21,5 @@ done
 ```
 docker run --rm -it \
   -v "<FOLDER>":"/convert/" \
-  icarrilloquero/rpi-ffmpeg /convert/<YOUR_SCRIPT>
+  icarrilloquero/ffmpeg /convert/<YOUR_SCRIPT>
 ```
